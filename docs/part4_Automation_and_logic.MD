@@ -120,12 +120,6 @@ scripts/upload_file.py
 - Uses reusable upload function
 - Uploads file to S3 bucket
 
-### Screenshot
-
-part4_01_parameterized_upload.png
-
----
-
 # Parameterized Download Operation
 
 A dedicated download script was created using reusable functions and configuration values.
@@ -141,8 +135,6 @@ scripts/download_file.py
 - Reads configuration values
 - Downloads file from S3
 - Stores file in local download directory
-
-### Screenshot
 
 part4_02_parameterized_download.png
 
@@ -163,12 +155,6 @@ scripts/list_files.py
 - Connects to Amazon S3
 - Retrieves bucket contents
 - Displays object names
-
-### Screenshot
-
-part4_03_list_files.png
-
----
 
 # Logging Implementation
 
