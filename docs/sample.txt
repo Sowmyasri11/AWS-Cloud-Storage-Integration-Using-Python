@@ -1,0 +1,16 @@
+AWS Cloud & Storage Integration Using Python
+
+Project: AWS Setup & Exploration
+
+Student Name: Sowmya Sri Yenumula
+Date: June 2026
+
+Services Used:
+1. AWS IAM
+2. AWS EC2
+3. AWS S3
+
+Purpose:
+This file is uploaded to Amazon S3 as part of the AWS Setup & Exploration task to verify bucket creation, file upload functionality, and object storage operations.
+
+Status: Successfully Uploaded
